@@ -60,7 +60,7 @@
 - addiction 클래스는 키워드 의존으로 비교적 구분 가능
 - 대화 길이가 길어질수록 성능 저하 관찰
 
----
+
 
 ### 3.3 Klue-Bert (Transformer-based) 
 
